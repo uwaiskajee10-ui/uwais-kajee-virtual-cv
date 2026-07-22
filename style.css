@@ -283,3 +283,33 @@ footer{
     transform:translateY(-4px);
     background:#7dd3fc;
 }
+
+/* Footer */
+
+footer{
+    background:#020617;
+    padding:30px 20px;
+    text-align:center;
+    border-top:1px solid #1e293b;
+}
+
+footer p{
+    margin-bottom:15px;
+    color:#94a3b8;
+}
+
+.footer-links{
+    display:flex;
+    justify-content:center;
+    gap:20px;
+    flex-wrap:wrap;
+}
+
+.footer-links a{
+    color:#38bdf8;
+    text-decoration:none;
+}
+
+.footer-links a:hover{
+    text-decoration:underline;
+}
