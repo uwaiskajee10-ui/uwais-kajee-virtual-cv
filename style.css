@@ -148,3 +148,45 @@ footer{
     padding:25px;
 
 }
+
+/* Skills Section */
+
+.skills-container{
+
+    display:grid;
+
+    grid-template-columns:repeat(2,1fr);
+
+    gap:25px;
+
+    margin-top:40px;
+
+}
+
+.skill-card{
+
+    background:#1e293b;
+
+    padding:25px;
+
+    border-radius:10px;
+
+    transition:.3s;
+
+}
+
+.skill-card:hover{
+
+    transform:translateY(-8px);
+
+    background:#273449;
+
+}
+
+.skill-card h3{
+
+    color:#38bdf8;
+
+    margin-bottom:15px;
+
+}
