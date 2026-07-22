@@ -190,3 +190,33 @@ footer{
     margin-bottom:15px;
 
 }
+
+/* Education */
+
+.education-card{
+
+    background:#1e293b;
+
+    padding:25px;
+
+    margin-bottom:25px;
+
+    border-left:5px solid #38bdf8;
+
+    border-radius:10px;
+
+}
+
+.education-card h3{
+
+    color:#38bdf8;
+
+    margin-bottom:15px;
+
+}
+
+.education-card p{
+
+    margin-bottom:10px;
+
+}
