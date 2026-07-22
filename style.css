@@ -220,3 +220,31 @@ footer{
     margin-bottom:10px;
 
 }
+
+/* Experience Section */
+
+.experience-card{
+    background:#1e293b;
+    padding:25px;
+    margin-bottom:25px;
+    border-radius:10px;
+}
+
+.experience-card h3{
+    color:#38bdf8;
+    margin-bottom:8px;
+}
+
+.experience-date{
+    color:#94a3b8;
+    margin-bottom:15px;
+}
+
+.experience-card ul{
+    padding-left:20px;
+}
+
+.experience-card li{
+    margin-bottom:10px;
+    line-height:1.6;
+}
