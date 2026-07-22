@@ -248,3 +248,38 @@ footer{
     margin-bottom:10px;
     line-height:1.6;
 }
+
+/* Contact Section */
+
+#contact{
+    text-align:center;
+}
+
+#contact p{
+    max-width:650px;
+    margin:20px auto 30px;
+    line-height:1.7;
+}
+
+.contact-links{
+    display:flex;
+    justify-content:center;
+    gap:20px;
+    flex-wrap:wrap;
+}
+
+.contact-links a{
+    display:inline-block;
+    background:#38bdf8;
+    color:#0f172a;
+    padding:12px 24px;
+    border-radius:6px;
+    text-decoration:none;
+    font-weight:bold;
+    transition:0.3s;
+}
+
+.contact-links a:hover{
+    transform:translateY(-4px);
+    background:#7dd3fc;
+}
